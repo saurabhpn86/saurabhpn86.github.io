@@ -28,12 +28,12 @@ define(['pipAPI', 'https://saurabhpn86.github.io/javascript.js'], function(APICo
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {image : 'yf1.jpg'}, 
-    			{image : 'yf4.jpg'}, 
-    			{image : 'yf5.jpg'}, 
-    			{image : 'ym2.jpg'}, 
-    			{image : 'ym3.jpg'}, 
-    			{image : 'ym5.jpg'}			], 
+					{word: 'Rohit'},
+					{word: 'Amit'},
+					{word: 'Ramesh'},
+					{word: 'Sanjay'},
+					{word: 'Sunil'},
+					{word: 'Aakash'}		], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
